@@ -19,6 +19,6 @@ int main (){
       smallest = arr[i];
     }
   }
-  cout << "smallest number is " << smallest << endl; f
+  cout << "smallest number is " << smallest << endl; 
 return 0;
 }
