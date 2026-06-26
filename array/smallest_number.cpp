@@ -3,7 +3,7 @@ using namespace std;
  
 int main (){
     int n; 
- cout<<"size of array = ";
+ cout<<"size of arr= ";
  cin>>n;
   int arr[n];
   cout<<"enter "<< n << "numbers";
@@ -19,6 +19,6 @@ int main (){
       smallest = arr[i];
     }
   }
-  cout << "smallest number is " << smallest << endl; 
+  cout << "smallest number is " << smallest << endl; f
 return 0;
 }
