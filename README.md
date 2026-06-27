@@ -22,7 +22,7 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 - Hashing
 
 ## Platforms
-- LeetCode
+- LeetCode**
 - GeeksforGeeks
 - Codeforces
 - HackerRank
