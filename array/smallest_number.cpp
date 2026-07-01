@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
- 
+ //smallest number brute force method//
 int main (){
     int n; 
  cout<<"size of arr= ";

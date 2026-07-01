@@ -1,6 +1,7 @@
 #include<iostream>
 #include<vector>
 using namespace std ;
+//pair of two sum in an array//
 vector<int>pairsum(vector<int>nums, int target){
          vector<int>ans;
   int n = nums.size();
