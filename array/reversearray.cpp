@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
- 
+ //array reversing using //
   void reversearr(int arr[],int sz){
     int start=0,end=sz-1;
     while(start<end){
