@@ -1,4 +1,3 @@
-//iterative method for binary search//
 #include<iostream>
 #include<vector>
 using namespace std;

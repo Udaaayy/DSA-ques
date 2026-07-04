@@ -1,3 +1,4 @@
+//linear search //
 #include<iostream>
 using namespace std;
 int linearsearch(int arr[],int sz ,int target )

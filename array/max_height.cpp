@@ -1,3 +1,4 @@
+//leet code max water in a container by brute force method//
 #include<iostream>
 #include<algorithm>
 using namespace std;
