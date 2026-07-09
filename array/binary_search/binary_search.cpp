@@ -1,4 +1,4 @@
-//binary search brute force method//
+//binary search brute force method for sorted array//
 #include<iostream>
 #include<vector>
 using namespace std;
