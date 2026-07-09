@@ -11,7 +11,7 @@ while(st <= end){
     if( tar > arr[mid]){
           st = mid +1;
     }
-    else if ( tar > arr [mid]){
+    else if ( tar < arr [mid]){
            end =mid -1;   
     }
     else {
