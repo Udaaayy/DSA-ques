@@ -7,7 +7,7 @@ int peakindex(const vector<int>& arr){
     
     for (int i = 1; i  < end ; ++i) {
         if (arr[i-1] < arr[i] && arr[i] > arr[i+1]) {
-            return static_cast<int>(i);
+            return arr[i];
         }
     }
     return -1;
