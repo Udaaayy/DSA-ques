@@ -1,6 +1,7 @@
 #include <iostream>
 #include<vector>
 #include<algorithm>
+
 using namespace std;
 
 bool ispossible(vector<int> &arr, int n,int c ,int minallowdis  ){
