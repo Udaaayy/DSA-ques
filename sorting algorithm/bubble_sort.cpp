@@ -1,3 +1,4 @@
+//bubble sorting
 #include <iostream>
 using namespace std;
     void bubblesort( int arr[], int n){ //O(n^2)
