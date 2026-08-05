@@ -22,3 +22,8 @@ cout << userInput;
 
     return 0;
 }
+
+
+//method 2
+// reverse(str.begin(),str.end());
+// cout<< str ;
